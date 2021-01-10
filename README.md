@@ -1,4 +1,4 @@
-![XKLY](toplogo.png)
+![  ](logo.png)
 # [访问网站](https://mcxkly.cn)
   
   
