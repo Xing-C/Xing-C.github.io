@@ -1,0 +1,140 @@
+{
+
+    "gamevesrion": [
+
+    {
+
+    "1.0.0.2": {
+
+    "name": [
+
+    "1.0.0.2.exe",
+
+    "1.0.0.2.001"
+
+    ],
+
+    "url": [
+
+    "1.0.0.2http1",
+
+    "1.0.0.2http2"
+
+    ],
+
+    "sha1": [
+
+    "XX2XX",
+
+    "XX2XX"
+
+    ]
+
+    }
+
+    },
+
+    {
+
+    "1.0.0.1": {
+
+    "name": [
+
+    "1.0.0.1.exe",
+
+    "1.0.0.1.001",
+
+    "1.0.0.1.002",
+
+    "1.0.0.1.003",
+
+    "1.0.0.1.004",
+
+    "1.0.0.1.005",
+
+    "1.0.0.1.006",
+
+    "1.0.0.1.007"
+
+    ],
+
+    "url": [
+
+    "https://mcxkly.lanzous.com/exe",
+
+    "https://mcxkly.lanzous.com/1",
+
+    "https://mcxkly.lanzous.com/2",
+
+    "https://mcxkly.lanzous.com/3",
+
+    "https://mcxkly.lanzous.com/4",
+
+    "https://mcxkly.lanzous.com/5",
+
+    "https://mcxkly.lanzous.com/6",
+
+    "https://mcxkly.lanzous.com/7"
+
+    ],
+
+    "sha1": [
+
+    "XXexeXX",
+
+    "XX1XX",
+
+    "XX2XX",
+
+    "XX3XX",
+
+    "XX4XX",
+
+    "XX5XX",
+
+    "XX6XX",
+
+    "XX7XX"
+
+    ]
+
+    }
+
+    },
+
+    {
+
+    "1.0.0.0": {
+
+    "name": [
+
+    "1.0.0.0.exe",
+
+    "1.0.0.0.001"
+
+    ],
+
+    "url": [
+
+    null,
+
+    "1.0.0.0http1",
+
+    "1.0.0.0.http2"
+
+    ],
+
+    "sha1": [
+
+    "XX0XX",
+
+    "XX0XX"
+
+    ]
+
+    }
+
+    }
+
+    ]
+}
