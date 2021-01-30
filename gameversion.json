@@ -104,11 +104,11 @@
 
     {
 
-    "1.0.0.0": {
+    "moren": {
 
     "name": [
 
-    "1.0.0.0.exe",
+    "moren.exe",
 
     "1.0.0.0.001"
 
@@ -118,17 +118,17 @@
 
     null,
 
-    "1.0.0.0http1",
+    "https://mcxkly.lanzous.com/iRIc9l3t07a",
 
-    "1.0.0.0.http2"
+    "https://mcxkly.lanzous.com/iszTikxxtuf"
 
     ],
 
     "sha1": [
 
-    "XX0XX",
+    "dcef244a6a1102ecc46942221b68cb5d72dcc2ad",
 
-    "XX0XX"
+    "dcef244a6a1102ecc46942221b68cb5d72dcc2ad"
 
     ]
 
