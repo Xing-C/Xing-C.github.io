@@ -1,138 +1,85 @@
 {
-
-    "gamevesrion": [
-
-    {
-
-    "1.0.0.2": {
-
-    "name": [
-
-    "1.0.0.2.exe",
-
-    "1.0.0.2.001"
-
-    ],
-
-    "url": [
-
-    "1.0.0.2http1",
-
-    "1.0.0.2http2"
-
-    ],
-
-    "sha1": [
-
-    "XX2XX",
-
-    "XX2XX"
-
-    ]
-
-    }
-
-    },
-
-    {
-
-    "1.0.0.1": {
-
-    "name": [
-
-    "1.0.0.1.exe",
-
-    "1.0.0.1.001",
-
-    "1.0.0.1.002",
-
-    "1.0.0.1.003",
-
-    "1.0.0.1.004",
-
-    "1.0.0.1.005",
-
-    "1.0.0.1.006",
-
-    "1.0.0.1.007"
-
-    ],
-
-    "url": [
-
-    "https://mcxkly.lanzous.com/exe",
-
-    "https://mcxkly.lanzous.com/1",
-
-    "https://mcxkly.lanzous.com/2",
-
-    "https://mcxkly.lanzous.com/3",
-
-    "https://mcxkly.lanzous.com/4",
-
-    "https://mcxkly.lanzous.com/5",
-
-    "https://mcxkly.lanzous.com/6",
-
-    "https://mcxkly.lanzous.com/7"
-
-    ],
-
-    "sha1": [
-
-    "XXexeXX",
-
-    "XX1XX",
-
-    "XX2XX",
-
-    "XX3XX",
-
-    "XX4XX",
-
-    "XX5XX",
-
-    "XX6XX",
-
-    "XX7XX"
-
-    ]
-
-    }
-
-    },
-
-    {
-
-    "moren": {
-
-    "name": [
-
-    "moren.exe",
-
-    "1.0.0.0.001"
-
-    ],
-
-    "url": [
-
-    "https://mcxkly.lanzous.com/iRIc9l3t07a",
-
-    "https://mcxkly.lanzous.com/iRIc9l3t07a"
-
-    ],
-
-    "sha1": [
-
-    "dcef244a6a1102ecc46942221b68cb5d72dcc2ad",
-
-    "dcef244a6a1102ecc46942221b68cb5d72dcc2ad"
-
-    ]
-
-    }
-
-    }
-
-    ]
+	"gamevesrion": 
+	[
+		{
+			"1.0.0.3": 
+			{
+				"name": 
+				[
+					"1.0.0.3.001",
+					"1.0.0.3.exe"
+				],
+				"url": 
+				[
+					"https://mcxkly.lanzous.com/iD340l5sxhe",
+					"https://mcxkly.lanzous.com/iKvYvl5suji"
+				],
+				"sha1": 
+				[
+					"53ac84b8948895f8b46629a202830f9946c85e0c",
+					"3308a8ec366ebede069e1c9c797ff16763798ae1"
+				]
+			}
+		},
+		{
+			"1.0.0.2": 
+			{
+				"name": 
+				[
+					"1.0.0.2.exe",
+					"1.0.0.2.001"
+				],
+				"url": 
+				[
+					"https://mcxkly.lanzous.com/i3zo5l5suhg",
+					"https://mcxkly.lanzous.com/iF2r5l5sxeb"
+				],
+				"sha1": 
+				[
+					"267230cd64c4b6927a6554562f0ab4e9002636a2",
+					"3308a8ec366ebede069e1c9c797ff16763798ae1"
+				]
+			}
+		},
+		{
+			"1.0.0.1": 
+			{
+				"name": 
+				[
+					"1.0.0.1.exe",
+					"1.0.0.1.001"
+				],
+				"url": 
+				[
+					"https://mcxkly.lanzous.com/i0Ui1l5sufe",
+					"https://mcxkly.lanzous.com/i5gjQl5sxda"
+				],
+				"sha1": 
+				[
+					"53ac84b8948895f8b46629a202830f9946c85e0c",
+					"267230cd64c4b6927a6554562f0ab4e9002636a2"
+				]
+			}
+		},
+		{
+			"moren": 
+			{
+				"name": 
+				[
+					"moren.001",
+					"moren.exe"
+				],
+				"url": 
+				[
+					"https://mcxkly.lanzous.com/iMGtbl5sxjg",
+					"https://mcxkly.lanzous.com/iFI5jl5sued"
+				],
+				"sha1": 
+				[
+					"267230cd64c4b6927a6554562f0ab4e9002636a2",
+					"dcef244a6a1102ecc46942221b68cb5d72dcc2ad"
+				]
+			}
+		}
+	]
 }
