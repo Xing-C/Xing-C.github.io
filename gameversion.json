@@ -58,17 +58,32 @@
 		"name": 
 		[
 			"1.0.0.0.001",
+			"1.0.0.0.002",
+			"1.0.0.0.003",
+			"1.0.0.0.004",
+			"1.0.0.0.005",
+			"java.7z",
 			"1.0.0.0-mcxklyol-install.exe"
 		],
 		"url": 
 		[
-			"https://mcxkly.lanzous.com/iMGtbl5sxjg",
-			"https://mcxkly.lanzous.com/iFI5jl5sued"
+			"https://mcxkly.lanzous.com/isRdEmzbryj",
+			"https://xxw5.lanzous.com/iAmH0mzbwrc&pwd=g668",
+			"https://xxw5.lanzous.com/iGBx8mzbx8j&pwd=g668",
+			"https://mcxkly.lanzous.com/iI07gmzbszg",
+			"https://mcxkly.lanzous.com/imesJmzbsub",
+			"https://mcxkly.lanzous.com/iLHiFmzbrje",
+			"https://mcxkly.lanzous.com/iV5P0mzbz7a"
 		],
 		"sha1": 
 		[
-			"267230cd64c4b6927a6554562f0ab4e9002636a2",
-			"dcef244a6a1102ecc46942221b68cb5d72dcc2ad"
+			"70fa04106648a07a3afeb837238fa17270a260fd",
+			"292e77d609acdc71867f85c807afcc48f8d23c02",
+			"c3fafa5d9273706e810eed408941a30a1b84c47f",
+			"377dd1cf6371c7274a701d7bff62d222dadec4cb",
+			"f3ea9d3c0e20eed0d41ff4ab55c3500ec33ec43f",
+			"406746a24bd7aaffea3a1088a18f73abf2147953",
+			"ade00cf34620d1ce76dde7ce10a04bcc0cd634ba"
 		]
 	}
 }
