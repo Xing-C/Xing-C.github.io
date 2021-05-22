@@ -17,15 +17,15 @@ body {margin:0 auto;overflow:hidden;}
 	float:left;
 	z-index:30;
 	} 
-.header canvas {
+.header .canvas {
 	width:100%;height:auto/*默认全屏显示 可自己设置高度640px*/;
-	display:inline-block;vertical-align:baseline
+	display:inline-block;vertical-align:baseline;
 	position:absolute;
 	z-index:-1;
 	}
 .header .canvaszz{  /*用来解决视频右键菜单，用于视频上面的遮罩层*/
 	width:100%;
-	background-image: url(https://s3.ax1x.com/2021/01/08/sK7r6I.jpg);
+	background-image: url(./png/canvaszz.png);
 	height:640px;
 	position:absolute;
 	z-index:10;
@@ -35,9 +35,8 @@ body {margin:0 auto;overflow:hidden;}
       	opacity: 0.4;
 	}
 
-
 .header .top_logo{
-	background-image: url(https://s3.ax1x.com/2021/01/10/s1YKte.png);
+	background-image: url(./png/top_logo.png);
 	margin:0 auto;
 	width:750px;
 	height:200px;
@@ -59,7 +58,7 @@ body {margin:0 auto;overflow:hidden;}
 	}
 .header .nav a.gv { 
 	text-decoration:none; 
-	background:url(https://s3.ax1x.com/2021/01/08/sK7D1A.png) repeat 0px 0px; 
+	background:url(./png/hover.png) repeat 0px 0px; 
 	width: 130px; 
 	height: 43px; 
 	display: block; 
@@ -75,7 +74,7 @@ body {margin:0 auto;overflow:hidden;}
 	 	
 }
 .header .nav a.gv:hover { 
-	background: url(https://s3.ax1x.com/2021/01/08/sK7D1A.png) repeat 0px -43px; 
+	background: url(./png/hover.png) repeat 0px -43px; 
 	color:#1d7eb8;
 	-webkit-box-shadow: 0 0 6px #1d7eb8;
 	transition-duration: 0.5s;
@@ -95,7 +94,7 @@ padding-bottom: h px;
 }
 .header	.topcn{
 	width: 980px;
-	top:350px;
+	top:300px;
 	left: 50%;
 	margin-left: -490px;
 	position:absolute;

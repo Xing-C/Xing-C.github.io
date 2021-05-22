@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>星空领域OL-官网</title>
 <link href="css/index_style.css" rel="stylesheet" type="text/css">
@@ -9,31 +10,32 @@
 <script src="js/jquery.min.js" type="text/javascript"></script>
 </head>
 <body>
+<!--               源码太丑,不要看!                 -->
 <div class="footer">©CopyRight 2021 mcxkly.cn xklyol.cn All Rights Reserved. 星空领域OnLine 版权所有</div>
 <div class="header" id="demo">
 	<div class="top_logo"></div>  
 	<div class="topcn" style="font:20px/18px 'microsoft yahei'; color:#0FF;text-align:center;">
 	  <p>欢迎来到 [星空领域] 高版本模组科技生存</p>
 	  <p>希望热爱-Minecraft-这款游戏的玩家能够聚集在一起~</p>
-	  <p>开开心心</p>
+	  <p>努力做得更好,开心快乐每一天</p>
 	  <p> </p>
-	  <p><font size="6" color="green">www.MCmod.cn</font></p>
-	  <p><font color="green">在下方输入框搜索MC信息</font></p>
-	<img src="https://www.mcmod.cn/static/public/images/search_logo.png"  align="bottom" border="0"></a> 	
+	  <p><font size="6" color="green">MC百科 - 你想要的这里都有.</font></p>
+	  <p><font size="4" color="green">Mod教程/mod方块/物品/生物/附魔</font></p>
+	<img src="./mcmod_search_logo.png"  align="bottom" border="0"></a> 	
 	<form action="https://www.mcmod.cn/s" target="_blank"> 
 	<input type="text" name="key" size="30"/> 
 	<input type="submit" value="搜索内容"/>
 	<p> </p>
 	</div> 
     <div class="div-left">
-	<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=462199987&auto=1&height=66"></iframe>
+	<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=6754266788&auto=1&height=430"></iframe>
 	</div>
     <div class="nav">
     	<a class="gv" href="#">下载游戏</a>
         <a class="gv" href="https://jq.qq.com/?_wv=1027&k=FPOhUufJ">加入QQ群</a>
-        <a class="gv" href="https://pfz.mcxkly.cn:520/auth/register">注册账号</a>
+        <a class="gv" href="https://pfz.mcxkly.cn/auth/register">注册账号</a>
         <a class="gv" href="tencent://message/?uin=79847143&Site=在线咨询&Menu=yes">联系群主</a>
-        <a class="gv" href="https://pfz.mcxkly.cn:520/user">更换皮肤</a>
+        <a class="gv" href="https://pfz.mcxkly.cn/user">更换皮肤</a>
         <a class="gv" href="https://www.mcmod.cn">MC 百科</a>
    </div>
   <div class="canvaszz"> </div>
@@ -51,7 +53,7 @@ var canvas = document.getElementById('canvas'),
   hue = 217,
   stars = [],
   count = 0,
-  maxStars = 1300;//星星数量
+  maxStars = 2021;//星星数量
 
 var canvas2 = document.createElement('canvas'),
   ctx2 = canvas2.getContext('2d');
