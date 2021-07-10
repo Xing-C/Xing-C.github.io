@@ -1,0 +1,340 @@
+; ---星空领域OnLine-1.12.2客户端专用魔改文件,请勿私自窃用
+; ---该文件仅用来学习,未经允许禁止放入自己客户端
+; ---
+; ---铱矿-圆形的
+IC2:misc_resource#iridium_ore = 10804.5
+; ---铱矿碎片
+IC2:misc_resource#iridium_shard = 1200.5
+; ---各种铱锭
+thermalfoundation:material@135 = 10804.5
+ic2:misc_resource@1 = 10804.5
+; ---各种铱矿
+super_solar_panels:iridium_ore = 10804.5
+thermalfoundation:ore@7 = 20000.5
+; ---铱块
+thermalfoundation:storage@7 = 97240.5
+; ---伊粒(bushi)
+thermalfoundation:material@199 = 1200.5
+; ---铱粉
+thermalfoundation:material@71 = 10804.5
+; ---各种铜锭
+ic2:ingot@2 = 100
+thermalfoundation:material@128 = 100
+nuclearcraft:ingot = 100
+immersiveengineering:metal = 100
+; ---各种锡锭
+nuclearcraft:ingot@1 = 100
+thermalfoundation:material@129 = 100
+ic2:ingot@6 = 100
+; ---各种铅锭
+thermalfoundation:material@131 = 130
+nuclearcraft:ingot@2 = 130
+ic2:ingot@3 = 130
+immersiveengineering:metal@2 = 130
+; ---各种青铜锭
+variedcommodities:ingot_bronze = 105
+thermalfoundation:material@163 = 105
+ic2:ingot@1 = 105
+; ---各种钢锭
+thermalfoundation:material@160 = 230
+ic2:ingot@5 = 230
+immersiveengineering:metal@8 = 230
+variedcommodities:ingot_steel = 230
+; ---各种铀锭
+nuclearcraft:ingot@4 = 95
+super_solar_panels:crafting@12 = 95
+immersiveengineering:metal@5 = 95
+; ---各种镍锭
+immersiveengineering:metal@4 = 130
+thermalfoundation:material@133 = 130
+; ---各种铝锭
+thermalfoundation:material@132 = 180
+immersiveengineering:metal@1 = 180
+; ---神秘6-炼金黄铜锭
+thaumcraft:ingot@2 = 150
+; ---神秘时代6-神秘锭
+thaumcraft:ingot = 155
+; ---匠魂2-生铁锭
+tconstruct:ingots@4 = 123
+; ---各种银锭
+thermalfoundation:material@130 = 125
+immersiveengineering:metal@3 = 125
+ic2:ingot@4 = 125
+; ---植物魔法-魔力钢锭
+botania:manaresource = 135
+; ---原版-铁锭
+minecraft:iron_ingot = 105
+; ---原版-金锭
+minecraft:gold_ingot = 145
+; ---原版-钻石
+minecraft:diamond = 305
+; ---原版-绿宝石
+minecraft:emerald = 310
+; ---原版-青金石
+minecraft:dye@4 = 105
+; ---原版-红石
+minecraft:redstone = 135
+; ---小撮铀-235
+ic2:nuclear@5 = 31.668
+; ---小撮铀-238
+ic2:nuclear@6 = 10.556
+; ---纯净粉碎铀矿
+ic2:purified@6 = 290
+; ---粉碎铀矿
+ic2:crushed@6 = 295
+; ---各种铀矿
+ic2:resource@4 = 600
+nuclearcraft:ore@4 = 600
+; ---放射性同位素燃料靶丸
+ic2:nuclear@10 = 36000
+; ---黑曜石
+minecraft:obsidian = 150
+; ---粘性树脂
+ic2:misc_resource@4 = 10
+; ---橡胶
+ic2:crafting = 3.3333
+; ---煤炭
+minecraft:coal = 67.5
+; ---焦煤
+immersiveengineering:material@6 = 75
+; ---电路板
+ic2:crafting@1 = 1600
+; ---高级电路板
+ic2:crafting@2 = 9600
+; ---高级合金
+ic2:crafting@3 = 1850
+; ---高级合金锭
+ic2:ingot = 1845
+; ---萤石粉
+minecraft:glowstone_dust = 98.5
+; ---下界石英
+minecraft:quartz = 60
+; ---富石英锭
+refinedstorage:quartz_enriched_iron = 178.5
+; ---各种颜色混凝土
+minecraft:concrete@8 = 3.333
+minecraft:concrete@7 = 3.333
+minecraft:concrete@6 = 3.333
+minecraft:concrete@5 = 3.333
+minecraft:concrete@4 = 3.333
+minecraft:concrete@3 = 3.333
+minecraft:concrete@2 = 3.333
+minecraft:concrete@1 = 3.333
+minecraft:concrete = 3.333
+minecraft:concrete@12 = 3.333
+minecraft:concrete@13 = 3.333
+minecraft:concrete@14 = 3.333
+minecraft:concrete@15 = 3.333
+minecraft:concrete@11 = 3.333
+minecraft:concrete@10 = 3.333
+minecraft:concrete@9 = 3.333
+; ---无色玻璃
+minecraft:glass = 1.5625
+; ---各种颜色玻璃
+minecraft:stained_glass = 1.5625
+minecraft:stained_glass@3 = 1.5625
+minecraft:stained_glass@4 = 1.5625
+minecraft:stained_glass@15 = 1.5625
+minecraft:stained_glass@5 = 1.5625
+minecraft:stained_glass@6 = 1.5625
+minecraft:stained_glass@7 = 1.5625
+minecraft:stained_glass@8 = 1.5625
+minecraft:stained_glass@1 = 1.5625
+minecraft:stained_glass@14 = 1.5625
+minecraft:stained_glass@13 = 1.5625
+minecraft:stained_glass@12 = 1.5625
+minecraft:stained_glass@11 = 1.5625
+minecraft:stained_glass@2 = 1.5625
+minecraft:stained_glass@10 = 1.5625
+minecraft:stained_glass@9 = 1.5625
+; ---各种颜色羊毛
+minecraft:wool@7 = 3.5
+minecraft:wool@8 = 3.5
+minecraft:wool@15 = 3.5
+minecraft:wool@14 = 3.5
+minecraft:wool@13 = 3.5
+minecraft:wool@12 = 3.5
+minecraft:wool@11 = 3.5
+minecraft:wool@10 = 3.5
+minecraft:wool@9 = 3.5
+minecraft:wool = 3.5
+minecraft:wool@1 = 3.5
+minecraft:wool@2 = 3.5
+minecraft:wool@3 = 3.5
+minecraft:wool@4 = 3.5
+minecraft:wool@5 = 3.5
+minecraft:wool@6 = 3.5
+; ---各种颜色陶瓦
+minecraft:stained_hardened_clay@8 = 3.333
+minecraft:stained_hardened_clay@7 = 3.333
+minecraft:stained_hardened_clay@6 = 3.333
+minecraft:stained_hardened_clay@5 = 3.333
+minecraft:stained_hardened_clay@4 = 3.333
+minecraft:stained_hardened_clay@3 = 3.333
+minecraft:stained_hardened_clay@2 = 3.333
+minecraft:stained_hardened_clay@1 = 3.333
+minecraft:stained_hardened_clay = 3.333
+minecraft:stained_hardened_clay@12 = 3.333
+minecraft:stained_hardened_clay@11 = 3.333
+minecraft:stained_hardened_clay@10 = 3.333
+minecraft:stained_hardened_clay@9 = 3.333
+minecraft:stained_hardened_clay@13 = 3.333
+minecraft:stained_hardened_clay@14 = 3.333
+minecraft:stained_hardened_clay@15 = 3.333
+; ---各种类型木板
+futureminecraf:crimsonplanks = 1.333
+futureminecraf:warpedplanks = 1.333
+immersiveengineering:treated_wood@2 = 1.333
+immersiveengineering:treated_wood@1 = 1.333
+immersiveengineering:treated_wood = 1.333
+natura:overworld_planks = 1.333
+natura:overworld_planks@1 = 1.333
+natura:overworld_planks@2 = 1.333
+natura:overworld_planks@3 = 1.333
+biomesoplenty:planks_0@5 = 1.333
+biomesoplenty:planks_0@4 = 1.333
+biomesoplenty:planks_0@6 = 1.333
+biomesoplenty:planks_0@7 = 1.333
+biomesoplenty:planks_0@8 = 1.333
+biomesoplenty:planks_0@9 = 1.333
+biomesoplenty:planks_0@10 = 1.333
+biomesoplenty:planks_0@11 = 1.333
+biomesoplenty:planks_0@12 = 1.333
+biomesoplenty:planks_0@13 = 1.333
+biomesoplenty:planks_0@14 = 1.333
+biomesoplenty:planks_0@15 = 1.333
+minecraft:planks@2 = 1.333
+minecraft:planks = 1.333
+biomesoplenty:planks_0@3 = 1.333
+biomesoplenty:planks_0@2 = 1.333
+minecraft:planks@3 = 1.333
+minecraft:planks@4 = 1.333
+minecraft:planks@5 = 1.333
+minecraft:planks@1 = 1.333
+biomesoplenty:planks_0@1 = 1.333
+natura:overworld_planks@4 = 1.333
+natura:overworld_planks@5 = 1.333
+natura:overworld_planks@6 = 1.333
+natura:overworld_planks@7 = 1.333
+natura:overworld_planks@8 = 1.333
+natura:nether_planks = 1.333
+natura:nether_planks@3 = 1.333
+natura:nether_planks@2 = 1.333
+natura:nether_planks@1 = 1.333
+; ---木棍
+minecraft:stick = 0.5
+; ---梦之木板
+botania:dreamwood@1 = 2
+botania:dreamwood@2 = 2
+botania:dreamwood@3 = 2
+botania:dreamwood@4 = 2
+; ---梦之木
+botania:dreamwood = 8
+; ---活木
+botania:livingwood = 7
+; ---活石
+botania:livingrock = 7
+; ---去皮原木-原版
+futureminecraf:strippedjunglewood = 5
+futureminecraf:strippedsprucewood = 5
+futureminecraf:strippedbirchwood = 5
+futureminecraf:strippedoakwood = 5
+futureminecraf:strippedjunglewood = 5
+futureminecraf:strippedacaciawood = 5
+futureminecraf:strippeddarkoakwood = 5
+futureminecraf:strippeddarkoaklog = 5
+futureminecraf:strippedacaialog = 5
+futureminecraf:strippedjunglelogrecipe = 5
+futureminecraf:strippedsprucelog = 5
+futureminecraf:strippedbirchlog = 5
+futureminecraf:strippedoaklog = 5
+; ---精灵木
+botanicadds:elvenwood_log = 5.5
+; ---无条纹原木-原版
+futureminecraf:oakwood = 5
+futureminecraf:birchwood = 5
+futureminecraf:sprucewood = 5
+futureminecraf:junglewood = 5
+futureminecraf:acaciawood = 5
+futureminecraf:oakwood = 5
+futureminecraf:darkoakwood = 5
+; ---各种原木
+natura:overworld_logs = 5
+natura:redwood_logs@2 = 5
+natura:redwood_logs@1 = 5
+natura:redwood_logs = 5
+natura:overworld_logs2@3 = 5
+natura:overworld_logs2@2 = 5
+natura:overworld_logs2@1 = 5
+natura:overworld_logs2 = 5
+biomesoplenty:log_2@5 = 5
+biomesoplenty:log_1@4 = 5
+biomesoplenty:log_0@7 = 5
+biomesoplenty:log_0@6 = 5
+minecraft:log@3 = 5
+minecraft:log@2 = 5
+minecraft:log@1 = 5
+minecraft:log = 5
+biomesoplenty:log_1@7 = 5
+natura:overworld_logs@3 = 5
+natura:overworld_logs@2 = 5
+natura:overworld_logs@1 = 5
+natura:nether_logs = 5
+natura:nether_logs@1 = 5
+biomesoplenty:log_1@5 = 5
+minecraft:log2 = 5
+biomesoplenty:log_0@5 = 5
+biomesoplenty:log_0@4 = 5
+biomesoplenty:log_3@7 = 5
+biomesoplenty:log_4@5 = 5
+biomesoplenty:log_3@6 = 5
+biomesoplenty:log_3@5 = 5
+biomesoplenty:log_3@4 = 5
+biomesoplenty:log_2@7 = 5
+biomesoplenty:log_2@6 = 5
+biomesoplenty:log_2@4 = 5
+biomesoplenty:log_1@6 = 5
+natura:nether_logs@2 = 5
+natura:nether_logs2 = 5
+natura:nether_logs2@15 = 5
+harvestcraft:pampaperbark = 5
+harvestcraft:pamcinnamon = 5
+harvestcraft:pammaple = 5
+thaumcraft:log_greatwood = 5
+thaumcraft:log_silverwood = 5
+thaumcraft:taint_log = 5
+thaumicbases:irongreatwood = 5
+thaumicbases:goldenlogs = 5
+thaumicbases:enderlogs = 5
+thaumicbases:netherlogs = 5
+twilightforest:twilight_log = 5
+twilightforest:twilight_log@1 = 5
+twilightforest:twilight_log@2 = 5
+twilightforest:twilight_log@3 = 5
+twilightforest:giant_log = 5
+twilightforest:magic_log@2 = 5
+twilightforest:magic_log@1 = 5
+twilightforest:magic_log = 5
+; ---骨头
+minecraft:bone = 50
+; ---地狱疣
+minecraft:nether_wart = 150
+; ---墨囊
+minecraft:dye = 30
+; ---皮革
+minecraft:leather = 40
+; ---烈焰棒
+minecraft:blaze_rod = 280
+; ---纸
+minecraft:paper = 5
+; ---书
+minecraft:book = 135
+; ---末影珍珠
+minecraft:ender_pearl = 250
+; ---各种铁轨
+minecraft:activator_rail = 15
+minecraft:golden_rail = 15
+minecraft:rail = 15
+minecraft:detector_rail = 15
+; ---碳板
+ic2:crafting@15 = 540
